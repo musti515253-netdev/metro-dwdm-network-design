@@ -17,7 +17,7 @@ The design focuses on optical transport engineering principles including span lo
 
 ## 🖼️ Network Topology
 
-![DWDM Network Diagram](./DWDM PROJECT DIAGRAM.drawio.png)
+![DWDM Network Diagram](./DWDM_PROJECT_DIAGRAM.png)
 
 * Ring topology with ROADM nodes at each city
 * Single-mode fibre (G.652D)
